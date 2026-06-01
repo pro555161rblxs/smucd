@@ -83,4 +83,3 @@ If multiple matches exist, an interactive selector opens:
 ## Notes
 
 - This overrides the default `cd` function in Zsh
-```
