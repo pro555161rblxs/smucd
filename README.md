@@ -80,6 +80,11 @@ If multiple matches exist, an interactive selector opens:
 
 ---
 
+
+
 ## Notes
 
 - This overrides the default `cd` function in Zsh
+
+## Tags
+zsh, cd, fuzzy finder, shell, terminal, productivity, fuzzy, zsh-plugin, zsh plugin, plugin
